@@ -13,7 +13,7 @@ The time at which I can appear here: 18:30 – 21:00 (6:30PM – 9PM)
 - :cake: I want to eat the whole cake
 
 
-Spoken languages: Russian, English, German(fluent)
+Spoken languages: English(C2), Russian(my first native), Chuvash(my second native), German(B1), French(A2, I don't have enough practice with native speakers, but I'm trying to learn)
 
 <!---
 SashaGHT/SashaGHT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
